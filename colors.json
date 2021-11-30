@@ -2,47 +2,143 @@
   "global": {
     "colors": {
       "neutrals": {
-        "black": "#000000",
-        "grey-100": "#161616",
-        "grey-90": "#262626",
-        "grey-80": "#393939",
-        "grey-70": "#525252",
-        "grey-60": "#6F6F6F",
-        "grey-50": "#8D8D8D",
-        "grey-40": "#A8A8A8",
-        "grey-30": "#C6C6C6",
-        "grey-20": "#E0E0E0",
-        "grey-10": "#F4F4F4",
-        "white": "#FFFFFF"
+        "black": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "grey-100": {
+          "value": "#161616",
+          "type": "color"
+        },
+        "grey-90": {
+          "value": "#262626",
+          "type": "color"
+        },
+        "grey-80": {
+          "value": "#393939",
+          "type": "color"
+        },
+        "grey-70": {
+          "value": "#525252",
+          "type": "color"
+        },
+        "grey-60": {
+          "value": "#6F6F6F",
+          "type": "color"
+        },
+        "grey-50": {
+          "value": "#8D8D8D",
+          "type": "color"
+        },
+        "grey-40": {
+          "value": "#A8A8A8",
+          "type": "color"
+        },
+        "grey-30": {
+          "value": "#C6C6C6",
+          "type": "color"
+        },
+        "grey-20": {
+          "value": "#E0E0E0",
+          "type": "color"
+        },
+        "grey-10": {
+          "value": "#F4F4F4",
+          "type": "color"
+        },
+        "white": {
+          "value": "#FFFFFF",
+          "type": "color"
+        }
       },
       "semantics": {
         "positive": {
-          "green-40": "#2D9D78",
-          "green-50": "#268E6C",
-          "green-60": "#12805C",
-          "green-70": "#107154",
-          "green-80": "#0D6349"
+          "green-40": {
+            "value": "#2D9D78",
+            "type": "color"
+          },
+          "green-50": {
+            "value": "#268E6C",
+            "type": "color"
+          },
+          "green-60": {
+            "value": "#12805C",
+            "type": "color"
+          },
+          "green-70": {
+            "value": "#107154",
+            "type": "color"
+          },
+          "green-80": {
+            "value": "#0D6349",
+            "type": "color"
+          }
         },
         "informative": {
-          "blue-40": "#2680EB",
-          "blue-50": "#1473E6",
-          "blue-60": "#0D66D0",
-          "blue-70": "#095ABA",
-          "blue-80": "#084EA1"
+          "blue-40": {
+            "value": "#2680EB",
+            "type": "color"
+          },
+          "blue-50": {
+            "value": "#1473E6",
+            "type": "color"
+          },
+          "blue-60": {
+            "value": "#0D66D0",
+            "type": "color"
+          },
+          "blue-70": {
+            "value": "#095ABA",
+            "type": "color"
+          },
+          "blue-80": {
+            "value": "#084EA1",
+            "type": "color"
+          }
         },
         "notice": {
-          "orange-40": "#E68619",
-          "orange-50": "#DA7B11",
-          "orange-60": "#CB6F10",
-          "orange-70": "#BD640D",
-          "orange-80": "#864906"
+          "orange-40": {
+            "value": "#E68619",
+            "type": "color"
+          },
+          "orange-50": {
+            "value": "#DA7B11",
+            "type": "color"
+          },
+          "orange-60": {
+            "value": "#CB6F10",
+            "type": "color"
+          },
+          "orange-70": {
+            "value": "#BD640D",
+            "type": "color"
+          },
+          "orange-80": {
+            "value": "#864906",
+            "type": "color"
+          }
         },
         "negative": {
-          "red-40": "#E34850",
-          "red-50": "#D7373F",
-          "red-60": "#C9252D",
-          "red-70": "#BB121A",
-          "red-80": "#A60C14"
+          "red-40": {
+            "value": "#E34850",
+            "type": "color"
+          },
+          "red-50": {
+            "value": "#D7373F",
+            "type": "color"
+          },
+          "red-60": {
+            "value": "#C9252D",
+            "type": "color"
+          },
+          "red-70": {
+            "value": "#BB121A",
+            "type": "color"
+          },
+          "red-80": {
+            "value": "#A60C14",
+            "type": "color"
+          }
         }
       }
     }
