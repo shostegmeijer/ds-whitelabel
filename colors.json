@@ -21,29 +21,29 @@
           "green-50": "#268E6C",
           "green-60": "#12805C",
           "green-70": "#107154",
-          "green-80": "#0D6349",
+          "green-80": "#0D6349"
         },
         "informative": {
           "blue-40": "#2680EB",
           "blue-50": "#1473E6",
           "blue-60": "#0D66D0",
           "blue-70": "#095ABA",
-          "blue-80": "#084EA1",
+          "blue-80": "#084EA1"
         },
         "notice": {
           "orange-40": "#E68619",
           "orange-50": "#DA7B11",
           "orange-60": "#CB6F10",
           "orange-70": "#BD640D",
-          "orange-80": "#864906",
+          "orange-80": "#864906"
         },
         "negative": {
           "red-40": "#E34850",
           "red-50": "#D7373F",
           "red-60": "#C9252D",
           "red-70": "#BB121A",
-          "red-80": "#A60C14",
-        },
+          "red-80": "#A60C14"
+        }
       }
     }
   }
