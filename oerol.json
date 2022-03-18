@@ -152,6 +152,12 @@
             "type": "color"
           }
         }
+      },
+      "text": {
+        "default": {
+          "value": "{colors.dark.40}",
+          "type": "color"
+        }
       }
     },
     "fontFamilies": {
@@ -513,6 +519,12 @@
         "type": "sizing"
       }
     },
+    "text": {
+      "color": {
+        "value": "{colors.cream.10}",
+        "type": "color"
+      }
+    },
     "button": {
       "primary": {
         "color": {
@@ -523,13 +535,9 @@
           "label": {
             "value": "{colors.cream.10}",
             "type": "color"
-          },
-          "icon": {
-            "value": "{button.primary.color.label}",
-            "type": "color"
           }
         },
-        "size:": {
+        "size": {
           "vertical": {
             "value": "{sizes.09}",
             "type": "size"
@@ -544,6 +552,32 @@
           },
           "paddingVertical": {
             "value": "{sizes.03}",
+            "type": "size"
+          }
+        }
+      },
+      "secondary": {
+        "color": {
+          "label": {
+            "value": "{colors.text.default}",
+            "type": "color"
+          }
+        },
+        "size": {
+          "vertical": {
+            "value": "{button.primary.size.vertical}",
+            "type": "size"
+          },
+          "spacing": {
+            "value": "{button.primary.size.spacing}",
+            "type": "size"
+          },
+          "paddingHorizontal": {
+            "value": "{button.primary.size.paddingHorizontal}",
+            "type": "size"
+          },
+          "paddingVertical": {
+            "value": "{button.primary.size.paddingVertical}",
             "type": "size"
           }
         }
