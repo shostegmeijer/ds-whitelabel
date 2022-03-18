@@ -134,21 +134,21 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{oerol.colors.blue.40}",
+            "value": "{colors.blue.40}",
             "type": "color"
           },
           "interaction": {
-            "value": "{oerol.colors.blue.30}",
+            "value": "{colors.blue.30}",
             "type": "color"
           }
         },
         "secondary": {
           "default": {
-            "value": "{oerol.colors.dark.40}",
+            "value": "{colors.dark.40}",
             "type": "color"
           },
           "interaction": {
-            "value": "{oerol.colors.dark.20}",
+            "value": "{colors.dark.20}",
             "type": "color"
           }
         }
@@ -517,33 +517,33 @@
       "primary": {
         "color": {
           "background": {
-            "value": "{oerol.colors.actions.primary.default}",
+            "value": "{colors.actions.primary.default}",
             "type": "color"
           },
           "label": {
-            "value": "{oerol.colors.cream.10}",
+            "value": "{colors.cream.10}",
             "type": "color"
           },
           "icon": {
-            "value": "{oerol.button.primary.color.label}",
+            "value": "{button.primary.color.label}",
             "type": "color"
           }
         },
         "size:": {
           "vertical": {
-            "value": "{oerol.sizes.09}",
+            "value": "{sizes.09}",
             "type": "size"
           },
           "spacing": {
-            "value": "{oerol.sizes.03}",
+            "value": "{sizes.03}",
             "type": "size"
           },
           "paddingHorizontal": {
-            "value": "{oerol.sizes.04}",
+            "value": "{sizes.04}",
             "type": "size"
           },
           "paddingVertical": {
-            "value": "{oerol.sizes.03}",
+            "value": "{sizes.03}",
             "type": "size"
           }
         }
