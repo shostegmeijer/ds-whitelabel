@@ -823,6 +823,10 @@
             "value": "{sizes.04}",
             "type": "size"
           }
+        },
+        "icon": {
+          "value": "{sizes.06}",
+          "type": "size"
         }
       },
       "color": {
