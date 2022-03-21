@@ -854,18 +854,18 @@
           },
           "warning": {
             "enabled": {
-              "value": "{colors.semantics.orange-40}",
+              "value": "{colors.semantics.notice.orange-40}",
               "type": "color"
             }
           },
           "invalid": {
             "enabled": {
-              "value": "{colors.semantics.red-40}",
+              "value": "{colors.semantics.negative.red-40}",
               "type": "color"
             }
           }
         },
-        "value": {
+        "val": {
           "placeholder": {
             "value": "{colors.dark.00}",
             "type": "color"
@@ -881,19 +881,18 @@
         },
         "icon": {
           "valid": {
-            "value": "{colors.semantics.green-40}",
+            "value": "{colors.semantics.positive.green-40}",
             "type": "color"
           },
           "warning": {
-            "value": "{colors.semantics.orange-40}",
+            "value": "{colors.semantics.notice.orange-40}",
             "type": "color"
           },
           "invalid": {
-            "value": "{colors.semantics.red-40}",
+            "value": "{colors.semantics.negative.red-40}",
             "type": "color"
           }
-        },
-        "type": "other"
+        }
       },
       "borderWidth": {
         "value": "{borderWidths.small}",
