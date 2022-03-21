@@ -610,8 +610,8 @@
           "type": "size"
         },
         "paddingHorizontal": {
-          "value": "{sizes.04}",
-          "type": "size"
+          "value": "{sizes.05}",
+          "type": "implicit"
         },
         "paddingVertical": {
           "value": "{sizes.03}",
