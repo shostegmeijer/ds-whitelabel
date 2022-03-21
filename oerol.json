@@ -630,7 +630,7 @@
           },
           "large": {
             "value": "{sizes.03}",
-            "type": "implicit"
+            "type": "size"
           }
         },
         "icon": {
