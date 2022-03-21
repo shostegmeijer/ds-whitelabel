@@ -629,8 +629,8 @@
             "type": "size"
           },
           "large": {
-            "value": "{sizes.04}",
-            "type": "size"
+            "value": "{sizes.03}",
+            "type": "implicit"
           }
         },
         "icon": {
