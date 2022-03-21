@@ -613,6 +613,10 @@
           "regular": {
             "value": "{sizes.09}",
             "type": "size"
+          },
+          "large": {
+            "value": "{sizes.10}",
+            "type": "size"
           }
         },
         "spacing": {
@@ -620,8 +624,24 @@
           "type": "size"
         },
         "paddingHorizontal": {
-          "value": "{sizes.05}",
-          "type": "size"
+          "regular": {
+            "value": "{sizes.05}",
+            "type": "size"
+          },
+          "large": {
+            "value": "{sizes.04}",
+            "type": "size"
+          }
+        },
+        "icon": {
+          "regular": {
+            "value": "{sizes.06}",
+            "type": "size"
+          },
+          "large": {
+            "value": "{sizes.08}",
+            "type": "size"
+          }
         }
       },
       "borderWidth": {
