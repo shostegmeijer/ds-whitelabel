@@ -648,6 +648,12 @@
         "value": "2px",
         "type": "borderWidth"
       }
+    },
+    "checkbox": {
+      "size": {
+        "value": "{sizes.06}",
+        "type": "size"
+      }
     }
   }
 }
