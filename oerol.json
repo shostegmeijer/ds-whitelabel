@@ -806,11 +806,11 @@
       "size": {
         "vertical": {
           "regular": {
-            "value": "{sizes.08}",
+            "value": "{sizes.11}",
             "type": "size"
           },
           "small": {
-            "value": "{sizes.07}",
+            "value": "{sizes.10}",
             "type": "size"
           }
         },
