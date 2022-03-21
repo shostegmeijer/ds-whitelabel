@@ -526,60 +526,96 @@
       }
     },
     "button": {
-      "primary": {
-        "color": {
-          "background": {
-            "value": "{colors.actions.primary.default}",
-            "type": "color"
+      "color": {
+        "background": {
+          "primary": {
+            "enabled": {
+              "value": "{colors.actions.primary.default}",
+              "type": "color"
+            },
+            "pressed": {
+              "value": "{colors.actions.primary.interaction}",
+              "type": "color"
+            }
           },
-          "label": {
-            "value": "{colors.cream.10}",
-            "type": "color"
+          "secondary": {
+            "pressed": {
+              "value": "{colors.cream.30}",
+              "type": "color"
+            }
           }
         },
-        "size": {
-          "vertical": {
-            "value": "{sizes.09}",
-            "type": "size"
+        "border": {
+          "primary": {
+            "enabled": {
+              "value": "{colors.actions.primary.default}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{colors.actions.primary.interaction}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{colors.actions.primary.interaction}",
+              "type": "color"
+            }
           },
-          "spacing": {
-            "value": "{sizes.03}",
-            "type": "size"
+          "secondary": {
+            "enabled": {
+              "value": "{colors.actions.secondary.default}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{colors.actions.secondary.interaction}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{colors.actions.secondary.interaction}",
+              "type": "color"
+            }
           },
-          "paddingHorizontal": {
-            "value": "{sizes.04}",
-            "type": "size"
+          "tertiary": {
+            "enabled": {
+              "value": "{colors.actions.primary.default}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{colors.actions.primary.interaction}",
+              "type": "color"
+            },
+            "hover": {
+              "value": "{colors.actions.primary.interaction}",
+              "type": "color"
+            }
+          }
+        },
+        "label": {
+          "primary": {
+            "value": "{colors.cream.10}",
+            "type": "color"
           },
-          "paddingVertical": {
-            "value": "{sizes.03}",
-            "type": "size"
+          "secondary": {
+            "value": "{colors.actions.secondary.default}",
+            "type": "color"
           }
         }
       },
-      "secondary": {
-        "color": {
-          "label": {
-            "value": "{colors.text.default}",
-            "type": "color"
-          }
+      "size": {
+        "vertical": {
+          "value": "{sizes.09}",
+          "type": "size"
         },
-        "size": {
-          "vertical": {
-            "value": "{button.primary.size.vertical}",
-            "type": "size"
-          },
-          "spacing": {
-            "value": "{button.primary.size.spacing}",
-            "type": "size"
-          },
-          "paddingHorizontal": {
-            "value": "{button.primary.size.paddingHorizontal}",
-            "type": "size"
-          },
-          "paddingVertical": {
-            "value": "{button.primary.size.paddingVertical}",
-            "type": "size"
-          }
+        "spacing": {
+          "value": "{sizes.03}",
+          "type": "size"
+        },
+        "paddingHorizontal": {
+          "value": "{sizes.04}",
+          "type": "size"
+        },
+        "paddingVertical": {
+          "value": "{sizes.03}",
+          "type": "size"
         }
       }
     }
