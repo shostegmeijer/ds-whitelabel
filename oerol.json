@@ -619,10 +619,6 @@
             "type": "size"
           }
         },
-        "spacing": {
-          "value": "{sizes.03}",
-          "type": "size"
-        },
         "paddingHorizontal": {
           "regular": {
             "value": "{sizes.05}",
@@ -643,6 +639,10 @@
             "type": "size"
           }
         }
+      },
+      "gap": {
+        "value": "{sizes.03}",
+        "type": "gap"
       },
       "borderWidth": {
         "value": "2px",
