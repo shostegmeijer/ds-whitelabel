@@ -790,6 +790,19 @@
       }
     },
     "input": {
+      "shadow": {
+        "focus": {
+          "value": {
+            "color": "#1544ef38",
+            "type": "dropShadow",
+            "x": 0,
+            "y": 0,
+            "blur": 8,
+            "spread": 0
+          },
+          "type": "boxShadow"
+        }
+      },
       "size": {
         "vertical": {
           "regular": {
