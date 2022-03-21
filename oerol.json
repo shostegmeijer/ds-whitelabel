@@ -617,6 +617,10 @@
           "value": "{sizes.05}",
           "type": "size"
         }
+      },
+      "borderWidth": {
+        "value": "2px",
+        "type": "borderWidth"
       }
     }
   }
