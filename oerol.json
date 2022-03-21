@@ -606,8 +606,14 @@
       },
       "size": {
         "vertical": {
-          "value": "{sizes.09}",
-          "type": "size"
+          "small": {
+            "value": "{sizes.08}",
+            "type": "size"
+          },
+          "regular": {
+            "value": "{sizes.09}",
+            "type": "size"
+          }
         },
         "spacing": {
           "value": "{sizes.03}",
