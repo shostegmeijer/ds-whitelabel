@@ -981,6 +981,10 @@
           }
         }
       },
+      "borderWidth": {
+        "value": "{borderWidths.regular}",
+        "type": "borderWidth"
+      },
       "color": {
         "border": {
           "value": "{colors.dark.40}",
