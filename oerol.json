@@ -983,6 +983,10 @@
             "value": "{sizes.07}",
             "type": "size"
           }
+        },
+        "borderWidth": {
+          "value": "{borderWidths.small}",
+          "type": "borderWidth"
         }
       },
       "borderWidth": {
