@@ -785,7 +785,7 @@
         "type": "gap"
       },
       "borderWidth": {
-        "value": "{borderWidths.small}",
+        "value": "{borderWidths.regular}",
         "type": "borderWidth"
       }
     },
@@ -912,7 +912,7 @@
         }
       },
       "borderWidth": {
-        "value": "{borderWidths.small}",
+        "value": "{borderWidths.regular}",
         "type": "borderWidth"
       }
     },
@@ -920,10 +920,38 @@
       "size": {
         "value": "{sizes.06}",
         "type": "size"
+      },
+      "borderWidth": {
+        "value": "{borderWidths.small}",
+        "type": "borderWidth"
+      },
+      "color": {
+        "background": {
+          "default": {
+            "value": "{colors.cream.10}",
+            "type": "color"
+          },
+          "checked": {
+            "value": "{colors.actions.primary.default}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "value": "{colors.dark.40}",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{colors.cream.10}",
+          "type": "color"
+        }
       }
     },
     "borderWidths": {
       "small": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "regular": {
         "value": "2",
         "type": "borderWidth"
       }
