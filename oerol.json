@@ -1011,7 +1011,7 @@
     "card": {
       "size": {
         "offset": {
-          "value": "{sizes.05}",
+          "value": "{sizes.10}",
           "type": "size"
         }
       },
