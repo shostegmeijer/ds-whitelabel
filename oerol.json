@@ -793,7 +793,7 @@
       "shadow": {
         "focus": {
           "value": {
-            "color": "#1544ef38",
+            "color": "rgba(21,68,239,0.22)",
             "type": "dropShadow",
             "x": 0,
             "y": 0,
