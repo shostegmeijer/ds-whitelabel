@@ -603,22 +603,26 @@
     },
     "sizes": {
       "10": {
-        "value": "56",
+        "value": "48",
         "type": "sizing"
       },
       "11": {
-        "value": "64",
+        "value": "56",
         "type": "sizing"
       },
       "12": {
-        "value": "80",
+        "value": "64",
         "type": "sizing"
       },
       "13": {
-        "value": "96",
+        "value": "80",
         "type": "sizing"
       },
       "14": {
+        "value": "96",
+        "type": "sizing"
+      },
+      "15": {
         "value": "160",
         "type": "sizing"
       },
@@ -643,19 +647,19 @@
         "type": "sizing"
       },
       "06": {
-        "value": "24",
+        "value": "20",
         "type": "sizing"
       },
       "07": {
-        "value": "32",
+        "value": "24",
         "type": "sizing"
       },
       "08": {
-        "value": "40",
+        "value": "32",
         "type": "sizing"
       },
       "09": {
-        "value": "48",
+        "value": "40",
         "type": "sizing"
       }
     },
@@ -747,15 +751,15 @@
       "size": {
         "vertical": {
           "small": {
-            "value": "{sizes.08}",
-            "type": "size"
-          },
-          "regular": {
             "value": "{sizes.09}",
             "type": "size"
           },
-          "large": {
+          "regular": {
             "value": "{sizes.10}",
+            "type": "size"
+          },
+          "large": {
+            "value": "{sizes.11}",
             "type": "size"
           }
         },
@@ -771,11 +775,11 @@
         },
         "icon": {
           "regular": {
-            "value": "{sizes.06}",
+            "value": "{sizes.07}",
             "type": "size"
           },
           "large": {
-            "value": "{sizes.08}",
+            "value": "{sizes.09}",
             "type": "size"
           }
         }
@@ -795,10 +799,10 @@
           "value": {
             "color": "rgba(21,68,239,0.22)",
             "type": "dropShadow",
-            "x": 0,
-            "y": 0,
-            "blur": 8,
-            "spread": 0
+            "x": "0",
+            "y": "0",
+            "blur": "8",
+            "spread": "0"
           },
           "type": "boxShadow"
         }
@@ -806,11 +810,11 @@
       "size": {
         "vertical": {
           "regular": {
-            "value": "{sizes.11}",
+            "value": "{sizes.12}",
             "type": "size"
           },
           "small": {
-            "value": "{sizes.10}",
+            "value": "{sizes.11}",
             "type": "size"
           }
         },
@@ -825,7 +829,7 @@
           }
         },
         "icon": {
-          "value": "{sizes.06}",
+          "value": "{sizes.07}",
           "type": "size"
         }
       },
