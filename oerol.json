@@ -274,7 +274,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{colors.blue.40}",
+            "value": "{colors.main}",
             "type": "color"
           },
           "interaction": {
@@ -298,6 +298,10 @@
           "value": "{colors.dark.40}",
           "type": "color"
         }
+      },
+      "main": {
+        "value": "{colors.blue.40}",
+        "type": "color"
       }
     },
     "fontFamilies": {
@@ -911,6 +915,10 @@
           },
           "invalid": {
             "value": "{colors.semantics.negative.red-40}",
+            "type": "color"
+          },
+          "search": {
+            "value": "{colors.actions.primary.default}",
             "type": "color"
           }
         }
