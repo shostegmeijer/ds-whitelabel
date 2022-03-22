@@ -968,15 +968,27 @@
         "type": "borderWidth"
       }
     },
-    "dropdown": {
-      "size": {
-        "paddingHorizontal": {
-          "value": "{sizes.05}",
-          "type": "size"
+    "filter": {
+      "item": {
+        "size": {
+          "paddingHorizontal": {
+            "value": "{sizes.05}",
+            "type": "size"
+          },
+          "vertical": {
+            "value": "{sizes.10}",
+            "type": "size"
+          }
+        }
+      },
+      "color": {
+        "border": {
+          "value": "{colors.dark.40}",
+          "type": "color"
         },
-        "vertical": {
-          "value": "{sizes.10}",
-          "type": "size"
+        "background": {
+          "value": "{colors.cream.10}",
+          "type": "color"
         }
       }
     }
