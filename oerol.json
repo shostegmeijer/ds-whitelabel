@@ -1007,6 +1007,40 @@
           "type": "color"
         }
       }
+    },
+    "card": {
+      "size": {
+        "offset": {
+          "value": "{sizes.05}",
+          "type": "size"
+        }
+      },
+      "color": {
+        "background": {
+          "value": "{colors.cream.30}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "{colors.cream.10}",
+          "type": "color"
+        }
+      },
+      "meta": {
+        "color": {
+          "value": "{colors.dark.10}",
+          "type": "color"
+        },
+        "size": {
+          "icon": {
+            "value": "{sizes.07}",
+            "type": "size"
+          }
+        },
+        "gap": {
+          "value": "{sizes.07}",
+          "type": "gap"
+        }
+      }
     }
   }
 }
