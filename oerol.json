@@ -959,6 +959,18 @@
         "value": "2",
         "type": "borderWidth"
       }
+    },
+    "dropdown": {
+      "size": {
+        "paddingHorizontal": {
+          "value": "{sizes.05}",
+          "type": "size"
+        },
+        "vertical": {
+          "value": "{sizes.10}",
+          "type": "size"
+        }
+      }
     }
   }
 }
