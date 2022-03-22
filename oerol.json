@@ -993,6 +993,10 @@
         "background": {
           "value": "{colors.cream.10}",
           "type": "color"
+        },
+        "checked": {
+          "value": "{colors.actions.primary.default}",
+          "type": "color"
         }
       }
     }
