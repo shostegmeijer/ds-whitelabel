@@ -1008,6 +1008,22 @@
         }
       }
     },
+    "eyebrow": {
+      "size": {
+        "length": {
+          "value": "{sizes.10}",
+          "type": "size"
+        }
+      },
+      "color": {
+        "value": "{colors.dark.40}",
+        "type": "color"
+      },
+      "borderWidth": {
+        "value": "{borderWidths.regular}",
+        "type": "borderWidth"
+      }
+    },
     "card": {
       "size": {
         "offset": {
