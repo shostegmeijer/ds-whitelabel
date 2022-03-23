@@ -1013,6 +1013,10 @@
         "offset": {
           "value": "{sizes.10}",
           "type": "size"
+        },
+        "padding": {
+          "value": "{sizes.08}",
+          "type": "size"
         }
       },
       "color": {
