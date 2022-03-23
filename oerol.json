@@ -1011,7 +1011,7 @@
     "eyebrow": {
       "size": {
         "length": {
-          "value": "{sizes.10}",
+          "value": "{sizes.08}",
           "type": "size"
         }
       },
