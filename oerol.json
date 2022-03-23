@@ -1022,6 +1022,10 @@
       "borderWidth": {
         "value": "{borderWidths.regular}",
         "type": "borderWidth"
+      },
+      "gap": {
+        "value": "{sizes.05}",
+        "type": "gap"
       }
     },
     "card": {
