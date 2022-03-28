@@ -752,7 +752,7 @@
           }
         }
       },
-      "size": {
+      "sizing": {
         "vertical": {
           "small": {
             "value": "{sizing.09}",
@@ -767,16 +767,6 @@
             "type": "sizing"
           }
         },
-        "paddingHorizontal": {
-          "regular": {
-            "value": "{sizing.05}",
-            "type": "spacing"
-          },
-          "large": {
-            "value": "{sizing.03}",
-            "type": "spacing"
-          }
-        },
         "icon": {
           "regular": {
             "value": "{sizing.07}",
@@ -785,6 +775,18 @@
           "large": {
             "value": "{sizing.09}",
             "type": "sizing"
+          }
+        }
+      },
+      "spacing": {
+        "paddingHorizontal": {
+          "regular": {
+            "value": "{sizing.05}",
+            "type": "spacing"
+          },
+          "large": {
+            "value": "{sizing.03}",
+            "type": "spacing"
           }
         }
       },
@@ -811,7 +813,7 @@
           "type": "boxShadow"
         }
       },
-      "size": {
+      "sizing": {
         "vertical": {
           "regular": {
             "value": "{sizing.12}",
@@ -822,6 +824,12 @@
             "type": "sizing"
           }
         },
+        "icon": {
+          "value": "{sizing.07}",
+          "type": "sizing"
+        }
+      },
+      "spacing": {
         "paddingHorizontal": {
           "regular": {
             "value": "{sizing.05}",
@@ -831,10 +839,6 @@
             "value": "{sizing.04}",
             "type": "spacing"
           }
-        },
-        "icon": {
-          "value": "{sizing.07}",
-          "type": "sizing"
         }
       },
       "color": {
@@ -929,7 +933,7 @@
       }
     },
     "checkbox": {
-      "size": {
+      "sizing": {
         "value": "{sizing.06}",
         "type": "sizing"
       },
@@ -970,11 +974,7 @@
     },
     "filter": {
       "item": {
-        "size": {
-          "paddingHorizontal": {
-            "value": "{sizing.05}",
-            "type": "spacing"
-          },
+        "sizing": {
           "vertical": {
             "value": "{sizing.10}",
             "type": "sizing"
@@ -982,6 +982,12 @@
           "icon": {
             "value": "{sizing.07}",
             "type": "sizing"
+          }
+        },
+        "spacing": {
+          "paddingHorizontal": {
+            "value": "{sizing.05}",
+            "type": "spacing"
           }
         },
         "borderWidth": {
@@ -1009,7 +1015,7 @@
       }
     },
     "eyebrow": {
-      "size": {
+      "sizing": {
         "length": {
           "value": "{sizing.08}",
           "type": "sizing"
@@ -1029,11 +1035,13 @@
       }
     },
     "card": {
-      "size": {
+      "sizing": {
         "offset": {
           "value": "{sizing.10}",
           "type": "sizing"
-        },
+        }
+      },
+      "spacing": {
         "padding": {
           "value": "{sizing.08}",
           "type": "spacing"
@@ -1054,7 +1062,7 @@
           "value": "{colors.dark.10}",
           "type": "color"
         },
-        "size": {
+        "sizing": {
           "icon": {
             "value": "{sizing.07}",
             "type": "sizing"
