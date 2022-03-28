@@ -929,7 +929,7 @@
       }
     },
     "checkbox": {
-      "sizing": {
+      "size": {
         "value": "{sizing.06}",
         "type": "sizing"
       },
@@ -970,7 +970,7 @@
     },
     "filter": {
       "item": {
-        "sizing": {
+        "size": {
           "paddingHorizontal": {
             "value": "{sizing.05}",
             "type": "spacing"
@@ -1009,7 +1009,7 @@
       }
     },
     "eyebrow": {
-      "sizing": {
+      "size": {
         "length": {
           "value": "{sizing.08}",
           "type": "sizing"
@@ -1029,7 +1029,7 @@
       }
     },
     "card": {
-      "sizing": {
+      "size": {
         "offset": {
           "value": "{sizing.10}",
           "type": "sizing"
