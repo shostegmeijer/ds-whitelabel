@@ -756,35 +756,35 @@
         "vertical": {
           "small": {
             "value": "{sizes.09}",
-            "type": "size"
+            "type": "sizing"
           },
           "regular": {
             "value": "{sizes.10}",
-            "type": "size"
+            "type": "sizing"
           },
           "large": {
             "value": "{sizes.11}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "paddingHorizontal": {
           "regular": {
             "value": "{sizes.05}",
-            "type": "size"
+            "type": "sizing"
           },
           "large": {
             "value": "{sizes.03}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "icon": {
           "regular": {
             "value": "{sizes.07}",
-            "type": "size"
+            "type": "sizing"
           },
           "large": {
             "value": "{sizes.09}",
-            "type": "size"
+            "type": "sizing"
           }
         }
       },
@@ -815,26 +815,26 @@
         "vertical": {
           "regular": {
             "value": "{sizes.12}",
-            "type": "size"
+            "type": "sizing"
           },
           "small": {
             "value": "{sizes.11}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "paddingHorizontal": {
           "regular": {
             "value": "{sizes.05}",
-            "type": "size"
+            "type": "sizing"
           },
           "small": {
             "value": "{sizes.04}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "icon": {
           "value": "{sizes.07}",
-          "type": "size"
+          "type": "sizing"
         }
       },
       "color": {
@@ -931,7 +931,7 @@
     "checkbox": {
       "size": {
         "value": "{sizes.06}",
-        "type": "size"
+        "type": "sizing"
       },
       "borderWidth": {
         "value": "{borderWidths.small}",
@@ -973,15 +973,15 @@
         "size": {
           "paddingHorizontal": {
             "value": "{sizes.05}",
-            "type": "size"
+            "type": "sizing"
           },
           "vertical": {
             "value": "{sizes.10}",
-            "type": "size"
+            "type": "sizing"
           },
           "icon": {
             "value": "{sizes.07}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "borderWidth": {
@@ -1012,7 +1012,7 @@
       "size": {
         "length": {
           "value": "{sizes.08}",
-          "type": "size"
+          "type": "sizing"
         }
       },
       "color": {
@@ -1032,11 +1032,11 @@
       "size": {
         "offset": {
           "value": "{sizes.10}",
-          "type": "size"
+          "type": "sizing"
         },
         "padding": {
           "value": "{sizes.08}",
-          "type": "size"
+          "type": "sizing"
         }
       },
       "color": {
@@ -1057,7 +1057,7 @@
         "size": {
           "icon": {
             "value": "{sizes.07}",
-            "type": "size"
+            "type": "sizing"
           }
         },
         "gap": {
