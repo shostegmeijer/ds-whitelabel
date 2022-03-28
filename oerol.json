@@ -770,11 +770,11 @@
         "paddingHorizontal": {
           "regular": {
             "value": "{sizing.05}",
-            "type": "sizing"
+            "type": "spacing"
           },
           "large": {
             "value": "{sizing.03}",
-            "type": "sizing"
+            "type": "spacing"
           }
         },
         "icon": {
@@ -825,11 +825,11 @@
         "paddingHorizontal": {
           "regular": {
             "value": "{sizing.05}",
-            "type": "sizing"
+            "type": "spacing"
           },
           "small": {
             "value": "{sizing.04}",
-            "type": "sizing"
+            "type": "spacing"
           }
         },
         "icon": {
@@ -973,7 +973,7 @@
         "sizing": {
           "paddingHorizontal": {
             "value": "{sizing.05}",
-            "type": "sizing"
+            "type": "spacing"
           },
           "vertical": {
             "value": "{sizing.10}",
@@ -1036,7 +1036,7 @@
         },
         "padding": {
           "value": "{sizing.08}",
-          "type": "sizing"
+          "type": "spacing"
         }
       },
       "color": {
