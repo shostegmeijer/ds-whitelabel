@@ -605,7 +605,7 @@
         }
       }
     },
-    "sizes": {
+    "sizing": {
       "10": {
         "value": "48",
         "type": "sizing"
@@ -755,41 +755,41 @@
       "size": {
         "vertical": {
           "small": {
-            "value": "{sizes.09}",
+            "value": "{sizing.09}",
             "type": "sizing"
           },
           "regular": {
-            "value": "{sizes.10}",
+            "value": "{sizing.10}",
             "type": "sizing"
           },
           "large": {
-            "value": "{sizes.11}",
+            "value": "{sizing.11}",
             "type": "sizing"
           }
         },
         "paddingHorizontal": {
           "regular": {
-            "value": "{sizes.05}",
+            "value": "{sizing.05}",
             "type": "sizing"
           },
           "large": {
-            "value": "{sizes.03}",
+            "value": "{sizing.03}",
             "type": "sizing"
           }
         },
         "icon": {
           "regular": {
-            "value": "{sizes.07}",
+            "value": "{sizing.07}",
             "type": "sizing"
           },
           "large": {
-            "value": "{sizes.09}",
+            "value": "{sizing.09}",
             "type": "sizing"
           }
         }
       },
       "gap": {
-        "value": "{sizes.03}",
+        "value": "{sizing.03}",
         "type": "gap"
       },
       "borderWidth": {
@@ -814,26 +814,26 @@
       "size": {
         "vertical": {
           "regular": {
-            "value": "{sizes.12}",
+            "value": "{sizing.12}",
             "type": "sizing"
           },
           "small": {
-            "value": "{sizes.11}",
+            "value": "{sizing.11}",
             "type": "sizing"
           }
         },
         "paddingHorizontal": {
           "regular": {
-            "value": "{sizes.05}",
+            "value": "{sizing.05}",
             "type": "sizing"
           },
           "small": {
-            "value": "{sizes.04}",
+            "value": "{sizing.04}",
             "type": "sizing"
           }
         },
         "icon": {
-          "value": "{sizes.07}",
+          "value": "{sizing.07}",
           "type": "sizing"
         }
       },
@@ -929,8 +929,8 @@
       }
     },
     "checkbox": {
-      "size": {
-        "value": "{sizes.06}",
+      "sizing": {
+        "value": "{sizing.06}",
         "type": "sizing"
       },
       "borderWidth": {
@@ -970,17 +970,17 @@
     },
     "filter": {
       "item": {
-        "size": {
+        "sizing": {
           "paddingHorizontal": {
-            "value": "{sizes.05}",
+            "value": "{sizing.05}",
             "type": "sizing"
           },
           "vertical": {
-            "value": "{sizes.10}",
+            "value": "{sizing.10}",
             "type": "sizing"
           },
           "icon": {
-            "value": "{sizes.07}",
+            "value": "{sizing.07}",
             "type": "sizing"
           }
         },
@@ -1009,9 +1009,9 @@
       }
     },
     "eyebrow": {
-      "size": {
+      "sizing": {
         "length": {
-          "value": "{sizes.08}",
+          "value": "{sizing.08}",
           "type": "sizing"
         }
       },
@@ -1024,18 +1024,18 @@
         "type": "borderWidth"
       },
       "gap": {
-        "value": "{sizes.05}",
+        "value": "{sizing.05}",
         "type": "gap"
       }
     },
     "card": {
-      "size": {
+      "sizing": {
         "offset": {
-          "value": "{sizes.10}",
+          "value": "{sizing.10}",
           "type": "sizing"
         },
         "padding": {
-          "value": "{sizes.08}",
+          "value": "{sizing.08}",
           "type": "sizing"
         }
       },
@@ -1056,12 +1056,12 @@
         },
         "size": {
           "icon": {
-            "value": "{sizes.07}",
+            "value": "{sizing.07}",
             "type": "sizing"
           }
         },
         "gap": {
-          "value": "{sizes.07}",
+          "value": "{sizing.07}",
           "type": "gap"
         }
       }
