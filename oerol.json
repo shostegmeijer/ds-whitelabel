@@ -1101,7 +1101,7 @@
     "modal": {
       "color": {
         "background": {
-          "value": "{colors.cream.30}",
+          "value": "{colors.cream.20}",
           "type": "color"
         },
         "overlay": {
