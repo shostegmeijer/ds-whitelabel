@@ -1101,7 +1101,7 @@
     "modal": {
       "color": {
         "background": {
-          "value": "{colors.cream.20}",
+          "value": "{colors.cream.30}",
           "type": "color"
         },
         "overlay": {
@@ -1111,9 +1111,11 @@
         "icon": {
           "value": "{colors.dark.00}",
           "type": "color"
-        },
-        "border": {
-          "value": "{colors.dark.40}",
+        }
+      },
+      "sizing": {
+        "icon": {
+          "value": "{sizing.05}",
           "type": "color"
         }
       },
