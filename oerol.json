@@ -1097,6 +1097,28 @@
           "type": "gap"
         }
       }
+    },
+    "modal": {
+      "color": {
+        "background": {
+          "value": "{colors.cream.30}",
+          "type": "color"
+        },
+        "overlay": {
+          "value": "rgba(0, 0, 0, 0.66)",
+          "type": "color"
+        },
+        "icon": {
+          "value": "{colors.dark.00}",
+          "type": "color"
+        }
+      },
+      "spacing": {
+        "padding": {
+          "value": "{sizing.09}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }
