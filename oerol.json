@@ -1111,6 +1111,10 @@
         "icon": {
           "value": "{colors.dark.00}",
           "type": "color"
+        },
+        "border": {
+          "value": "{colors.dark.40}",
+          "type": "color"
         }
       },
       "spacing": {
