@@ -1116,7 +1116,7 @@
       "sizing": {
         "icon": {
           "value": "{sizing.07}",
-          "type": "color"
+          "type": "sizing"
         }
       },
       "spacing": {
