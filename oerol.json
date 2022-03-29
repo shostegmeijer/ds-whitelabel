@@ -1036,8 +1036,14 @@
         "type": "borderWidth"
       },
       "gap": {
-        "value": "{sizing.05}",
-        "type": "gap"
+        "small": {
+          "value": "{sizing.04}",
+          "type": "gap"
+        },
+        "regular": {
+          "value": "{sizing.05}",
+          "type": "gap"
+        }
       }
     },
     "card": {
