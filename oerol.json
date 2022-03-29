@@ -1017,8 +1017,14 @@
     "eyebrow": {
       "sizing": {
         "length": {
-          "value": "{sizing.08}",
-          "type": "sizing"
+          "small": {
+            "value": "{sizing.06}",
+            "type": "sizing"
+          },
+          "regular": {
+            "value": "{sizing.08}",
+            "type": "sizing"
+          }
         }
       },
       "color": {
@@ -1037,14 +1043,26 @@
     "card": {
       "sizing": {
         "offset": {
-          "value": "{sizing.10}",
-          "type": "sizing"
+          "small": {
+            "value": "{sizing.09}",
+            "type": "sizing"
+          },
+          "regular": {
+            "value": "{sizing.10}",
+            "type": "sizing"
+          }
         }
       },
       "spacing": {
         "padding": {
-          "value": "{sizing.08}",
-          "type": "spacing"
+          "small": {
+            "value": "{sizing.07}",
+            "type": "spacing"
+          },
+          "regular": {
+            "value": "{sizing.08}",
+            "type": "spacing"
+          }
         }
       },
       "color": {
