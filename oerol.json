@@ -1124,6 +1124,10 @@
           "value": "{sizing.09}",
           "type": "spacing"
         }
+      },
+      "gap": {
+        "value": "{sizing.07}",
+        "type": "gap"
       }
     }
   }
