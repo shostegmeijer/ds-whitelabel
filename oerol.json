@@ -1121,7 +1121,7 @@
       },
       "spacing": {
         "padding": {
-          "value": "{sizing.10}",
+          "value": "{sizing.09}",
           "type": "spacing"
         }
       }
