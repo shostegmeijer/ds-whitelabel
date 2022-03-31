@@ -773,6 +773,10 @@
           "tertiary": {
             "value": "{colors.actions.primary.default}",
             "type": "color"
+          },
+          "quanternary": {
+            "value": "{colors.actions.secondary.default}",
+            "type": "color"
           }
         }
       },
