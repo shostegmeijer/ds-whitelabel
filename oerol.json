@@ -1163,6 +1163,32 @@
         "value": "{sizing.07}",
         "type": "gap"
       }
+    },
+    "stepcounter": {
+      "sizing": {
+        "number": {
+          "value": "{sizing.09}",
+          "type": "sizing"
+        }
+      },
+      "color": {
+        "active": {
+          "value": "{colors.actions.primary.default}",
+          "type": "color"
+        },
+        "inactive": {
+          "value": "{colors.neutrals.grey-30}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{colors.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "gap": {
+        "value": "{sizing.02}",
+        "type": "implicit"
+      }
     }
   }
 }
