@@ -1187,7 +1187,7 @@
       },
       "gap": {
         "value": "{sizing.02}",
-        "type": "implicit"
+        "type": "gap"
       }
     }
   }
