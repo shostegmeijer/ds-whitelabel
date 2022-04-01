@@ -1188,6 +1188,10 @@
       "gap": {
         "value": "{sizing.02}",
         "type": "gap"
+      },
+      "borderWidth": {
+        "value": "{borderWidths.regular}",
+        "type": "borderWidth"
       }
     }
   }
