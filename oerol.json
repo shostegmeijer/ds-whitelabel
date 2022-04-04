@@ -1231,6 +1231,22 @@
           "type": "color"
         }
       }
+    },
+    "gaps": {
+      "grid": {
+        "desktop": {
+          "value": "10",
+          "type": "gap"
+        }
+      }
+    },
+    "columns": {
+      "grid": {
+        "desktop": {
+          "value": "24",
+          "type": "other"
+        }
+      }
     }
   }
 }
