@@ -1220,6 +1220,16 @@
       "borderWidth": {
         "value": "{borderWidths.regular}",
         "type": "borderWidth"
+      },
+      "colors": {
+        "border": {
+          "value": "{colors.text.default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{colors.text.default}",
+          "type": "color"
+        }
       }
     }
   }
