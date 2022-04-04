@@ -1193,6 +1193,20 @@
         "value": "{borderWidths.regular}",
         "type": "borderWidth"
       }
+    },
+    "note": {
+      "colors": {
+        "background": {
+          "value": "{colors.disco.40}",
+          "type": "color"
+        }
+      },
+      "spacing": {
+        "padding": {
+          "value": "{sizing.05}",
+          "type": "spacing"
+        }
+      }
     }
   }
 }
