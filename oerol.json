@@ -1195,7 +1195,7 @@
       }
     },
     "note": {
-      "colors": {
+      "color": {
         "background": {
           "value": "{colors.disco.40}",
           "type": "color"
@@ -1221,7 +1221,7 @@
         "value": "{borderWidths.regular}",
         "type": "borderWidth"
       },
-      "colors": {
+      "color": {
         "border": {
           "value": "{colors.text.default}",
           "type": "color"
