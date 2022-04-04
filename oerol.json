@@ -1247,6 +1247,14 @@
           "type": "other"
         }
       }
+    },
+    "spacing": {
+      "grid": {
+        "desktop": {
+          "value": "1670",
+          "type": "spacing"
+        }
+      }
     }
   }
 }
