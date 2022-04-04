@@ -1207,6 +1207,20 @@
           "type": "spacing"
         }
       }
+    },
+    "legend": {
+      "sizing": {
+        "value": "130",
+        "type": "sizing"
+      },
+      "spacing": {
+        "value": "{sizing.07}",
+        "type": "spacing"
+      },
+      "borderWidth": {
+        "value": "{borderWidths.regular}",
+        "type": "borderWidth"
+      }
     }
   }
 }
