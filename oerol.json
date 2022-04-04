@@ -274,11 +274,11 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{colors.main}",
+            "value": "{colors.red.40}",
             "type": "color"
           },
           "interaction": {
-            "value": "{colors.blue.30}",
+            "value": "{colors.red.30}",
             "type": "color"
           }
         },
