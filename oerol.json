@@ -1214,12 +1214,24 @@
     },
     "legend": {
       "sizing": {
-        "value": "130",
-        "type": "sizing"
+        "regular": {
+          "value": "{sizing.15}",
+          "type": "sizing"
+        },
+        "small": {
+          "value": "{sizing.11}",
+          "type": "sizing"
+        }
       },
       "spacing": {
-        "value": "{sizing.07}",
-        "type": "spacing"
+        "regular": {
+          "value": "{sizing.07}",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{sizing.02}",
+          "type": "spacing"
+        }
       },
       "borderWidth": {
         "value": "{borderWidths.regular}",
