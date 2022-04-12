@@ -1050,6 +1050,12 @@
           "value": "{colors.actions.primary.default}",
           "type": "color"
         }
+      },
+      "sizing": {
+        "spacer": {
+          "value": "{sizing.02}",
+          "type": "sizing"
+        }
       }
     },
     "eyebrow": {
