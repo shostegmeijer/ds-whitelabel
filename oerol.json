@@ -1008,6 +1008,10 @@
       "regular": {
         "value": "2",
         "type": "borderWidth"
+      },
+      "large": {
+        "value": "{sizing.02}",
+        "type": "borderWidth"
       }
     },
     "filter": {
@@ -1276,6 +1280,24 @@
           "value": "1670",
           "type": "spacing"
         }
+      }
+    },
+    "act": {
+      "borderWidths": {
+        "separator": {
+          "value": "{borderWidths.large}",
+          "type": "borderWidth"
+        }
+      },
+      "separator": {
+        "sizing": {
+          "value": "{sizing.10}",
+          "type": "sizing"
+        }
+      },
+      "gap": {
+        "value": "{sizing.08}",
+        "type": "implicit"
       }
     }
   }
