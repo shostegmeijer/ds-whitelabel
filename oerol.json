@@ -1283,16 +1283,18 @@
       }
     },
     "act": {
-      "borderWidths": {
-        "separator": {
+      "separator": {
+        "borderWidth": {
           "value": "{borderWidths.large}",
           "type": "borderWidth"
-        }
-      },
-      "separator": {
+        },
         "sizing": {
           "value": "{sizing.10}",
           "type": "sizing"
+        },
+        "colors": {
+          "value": "{colors.main}",
+          "type": "color"
         }
       },
       "gap": {
