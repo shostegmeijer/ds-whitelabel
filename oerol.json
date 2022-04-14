@@ -1299,7 +1299,7 @@
       },
       "gap": {
         "value": "{sizing.08}",
-        "type": "implicit"
+        "type": "gap"
       }
     }
   }
