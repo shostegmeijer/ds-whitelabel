@@ -274,7 +274,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{info.colors.icon}",
+            "value": "{info.color.icon}",
             "type": "color"
           },
           "interaction": {
@@ -301,7 +301,7 @@
       }
     },
     "info": {
-      "colors": {
+      "color": {
         "icon": {
           "value": "{colors.blue.40}",
           "type": "color"
@@ -316,6 +316,10 @@
           "value": "{sizing.07}",
           "type": "sizing"
         }
+      },
+      "borderWidth": {
+        "value": "{borderWidths.regular}",
+        "type": "borderWidth"
       },
       "spacing": {
         "paddingHorizontal": {
@@ -1317,7 +1321,7 @@
           "type": "sizing"
         },
         "colors": {
-          "value": "{info.colors.icon}",
+          "value": "{info.color.icon}",
           "type": "color"
         }
       },
