@@ -323,7 +323,7 @@
       },
       "gap": {
         "value": "{sizing.05}",
-        "type": "implicit"
+        "type": "gap"
       },
       "spacing": {
         "paddingHorizontal": {
