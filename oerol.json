@@ -970,6 +970,24 @@
         "type": "borderWidth"
       }
     },
+    "info": {
+      "sizing": {
+        "icon": {
+          "value": "{sizing.07}",
+          "type": "sizing"
+        }
+      },
+      "spacing": {
+        "paddingHorizontal": {
+          "value": "{sizing.07}",
+          "type": "spacing"
+        },
+        "paddingVertical": {
+          "value": "{sizing.05}",
+          "type": "spacing"
+        }
+      }
+    },
     "checkbox": {
       "sizing": {
         "value": "{sizing.06}",
