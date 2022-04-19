@@ -274,7 +274,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{colors.main}",
+            "value": "{info.colors.icon}",
             "type": "color"
           },
           "interaction": {
@@ -298,10 +298,30 @@
           "value": "{colors.dark.40}",
           "type": "color"
         }
+      }
+    },
+    "info": {
+      "colors": {
+        "icon": {
+          "value": "{colors.blue.40}",
+          "type": "color"
+        }
       },
-      "main": {
-        "value": "{colors.blue.40}",
-        "type": "color"
+      "sizing": {
+        "icon": {
+          "value": "{sizing.07}",
+          "type": "sizing"
+        }
+      },
+      "spacing": {
+        "paddingHorizontal": {
+          "value": "{sizing.07}",
+          "type": "spacing"
+        },
+        "paddingVertical": {
+          "value": "{sizing.05}",
+          "type": "spacing"
+        }
       }
     },
     "fontFamilies": {
@@ -970,24 +990,6 @@
         "type": "borderWidth"
       }
     },
-    "info": {
-      "sizing": {
-        "icon": {
-          "value": "{sizing.07}",
-          "type": "sizing"
-        }
-      },
-      "spacing": {
-        "paddingHorizontal": {
-          "value": "{sizing.07}",
-          "type": "spacing"
-        },
-        "paddingVertical": {
-          "value": "{sizing.05}",
-          "type": "spacing"
-        }
-      }
-    },
     "checkbox": {
       "sizing": {
         "value": "{sizing.06}",
@@ -1311,7 +1313,7 @@
           "type": "sizing"
         },
         "colors": {
-          "value": "{colors.main}",
+          "value": "{info.colors.icon}",
           "type": "color"
         }
       },
