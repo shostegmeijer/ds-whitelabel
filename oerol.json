@@ -440,7 +440,7 @@
             "fontFamily": "$fontFamilies.serif",
             "fontWeight": "$fontWeights.bold",
             "lineHeight": "$lineHeights.m",
-            "fontSize": "$fontSizes.84",
+            "fontSize": "$fontSizes.68",
             "letterSpacing": "$letterSpacings.m",
             "paragraphSpacing": "$paragraphSpacings.m",
             "textCase": "$textCase.none",
