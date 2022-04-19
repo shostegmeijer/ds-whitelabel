@@ -321,6 +321,10 @@
         "value": "{borderWidths.regular}",
         "type": "borderWidth"
       },
+      "gap": {
+        "value": "{sizing.05}",
+        "type": "implicit"
+      },
       "spacing": {
         "paddingHorizontal": {
           "value": "{sizing.07}",
@@ -1226,10 +1230,6 @@
           "value": "{colors.neutrals.white}",
           "type": "color"
         }
-      },
-      "gap": {
-        "value": "{sizing.02}",
-        "type": "gap"
       },
       "borderWidth": {
         "value": "{borderWidths.regular}",
