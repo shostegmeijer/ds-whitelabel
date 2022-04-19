@@ -305,6 +305,10 @@
         "icon": {
           "value": "{colors.blue.40}",
           "type": "color"
+        },
+        "border": {
+          "value": "{colors.blue.40}",
+          "type": "color"
         }
       },
       "sizing": {
