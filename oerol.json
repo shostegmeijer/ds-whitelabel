@@ -399,12 +399,12 @@
         "value": "36",
         "type": "fontSizes"
       },
-      "68": {
-        "value": "68",
+      "56": {
+        "value": "56",
         "type": "fontSizes"
       },
-      "84": {
-        "value": "84",
+      "72": {
+        "value": "72",
         "type": "fontSizes"
       }
     },
@@ -427,7 +427,7 @@
             "fontFamily": "$fontFamilies.serif",
             "fontWeight": "$fontWeights.bold",
             "lineHeight": "$lineHeights.m",
-            "fontSize": "$fontSizes.84",
+            "fontSize": "{fontSizes.72}",
             "letterSpacing": "$letterSpacings.m",
             "paragraphSpacing": "$paragraphSpacings.m",
             "textCase": "$textCase.none",
@@ -440,7 +440,7 @@
             "fontFamily": "$fontFamilies.serif",
             "fontWeight": "$fontWeights.bold",
             "lineHeight": "$lineHeights.m",
-            "fontSize": "$fontSizes.68",
+            "fontSize": "{fontSizes.56}",
             "letterSpacing": "$letterSpacings.m",
             "paragraphSpacing": "$paragraphSpacings.m",
             "textCase": "$textCase.none",
