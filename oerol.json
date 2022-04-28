@@ -274,7 +274,7 @@
       "actions": {
         "primary": {
           "default": {
-            "value": "{info.color.icon}",
+            "value": "{colors.semantics.negative.red-40}",
             "type": "color"
           },
           "interaction": {
